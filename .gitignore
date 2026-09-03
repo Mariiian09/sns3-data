@@ -1,2 +1,9 @@
 sims/
 sgp4/
+
+# Working copies left behind when a scenario's geometry was rewritten.
+*.orig
+*.prestar
+*.preplace
+antennapatterns_backup2
+antennapatterns_geo_backup
